@@ -1,4 +1,5 @@
 Read Me
+data and analysis code for the paper https://doi.org/10.1371/journal.pcbi.1011769
 To run the code for data analysis 
 Please first download the following Matlab file exchange packages on Mathworks
 1. Bayes factor https://www.mathworks.com/matlabcentral/fileexchange/69794-bayesfactor
